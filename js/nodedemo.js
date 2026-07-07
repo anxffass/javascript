@@ -25,7 +25,7 @@ console.log(typeof(name))
 
 let age;
 
-let score = 90
+let score = 80
 
 let data = null
 
